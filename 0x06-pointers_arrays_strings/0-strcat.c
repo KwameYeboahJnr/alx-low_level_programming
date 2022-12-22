@@ -1,8 +1,8 @@
-#include "kasiye.h"
+#include "main.h"
 /**
  **_strcat - concatenates two strings
- *@dest: pointer destination
- *@src: pointer source
+ *@dest: output
+ *@src: input
  *Return: void
  */
 char *_strcat(char *dest, char *src)
