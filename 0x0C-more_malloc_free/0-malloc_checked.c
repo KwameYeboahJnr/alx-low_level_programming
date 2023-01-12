@@ -2,7 +2,7 @@
 /**
  *malloc_checked - array for print a string
  *@b: number of memory
- *Return: void
+ *Return: pointer to allocated memory or normal process termination
  */
 void *malloc_checked(unsigned int b)
 {
